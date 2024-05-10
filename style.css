@@ -78,13 +78,13 @@ td{
 }
 
 @media(max-width: 999.99px){
-    table{
+    .container{
         width: 50vw;
     }
 }
 
 @media(max-width: 759.99px){
-    table{
+    .container{
         width: 90vw;
         margin: 3rem auto;
     }
