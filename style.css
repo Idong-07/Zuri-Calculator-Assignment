@@ -77,3 +77,15 @@ td{
     border-bottom: 5px solid rgb(190, 104, 2);
 }
 
+@media(max-width: 999.99px){
+    table{
+        width: 50vw;
+    }
+}
+
+@media(max-width: 759.99px){
+    table{
+        width: 90vw;
+        margin: 3rem auto;
+    }
+}
